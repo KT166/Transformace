@@ -1,1 +1,3 @@
 # Transformace
+
+Protoze sem musela.
